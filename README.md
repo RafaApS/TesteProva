@@ -4,5 +4,5 @@ Este é um projeto de exemplo feito com tsx
 
 ## 📱 Tela principal
 
-![Tela principal](./assets/tela.png)
+![Tela principal](./assets/images/tela.png)
 
